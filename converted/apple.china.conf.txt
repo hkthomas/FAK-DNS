@@ -7,9 +7,6 @@
 [/adcdownload.apple.com/]tls://112.65.69.15
 [/amp-api-updates.apps.apple.com/]tls://112.65.69.15
 [/amp-api.media.apple.com/]tls://112.65.69.15
-[/api-p-ap-c.smoot.apple.com/]tls://112.65.69.15
-[/api-p-ap-d.smoot.apple.com/]tls://112.65.69.15
-[/api-p-ap-e.smoot.apple.com/]tls://112.65.69.15
 [/app-site-association.cdn-apple.com/]tls://112.65.69.15
 [/appldnld.apple.com/]tls://112.65.69.15
 [/appldnld.g.aaplimg.com/]tls://112.65.69.15
@@ -61,7 +58,6 @@
 [/gsp12-cn.ls.apple.com/]tls://112.65.69.15
 [/gsp13-cn.ls.apple.com/]tls://112.65.69.15
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
-[/gsp4-cn.ls.apple.com.edgekey.net/]tls://112.65.69.15
 [/gsp4-cn.ls.apple.com/]tls://112.65.69.15
 [/gsp5-cn.ls.apple.com/]tls://112.65.69.15
 [/gsp85-cn-ssl.ls.apple.com/]tls://112.65.69.15
@@ -71,7 +67,6 @@
 [/gspe19-cn.ls-apple.com.akadns.net/]tls://112.65.69.15
 [/gspe19-cn.ls.apple.com/]tls://112.65.69.15
 [/gspe21-ssl.ls.apple.com/]tls://112.65.69.15
-[/gspe21.ls.apple.com/]tls://112.65.69.15
 [/gspe35-ssl.ls.apple.com/]tls://112.65.69.15
 [/gspe79-cn-ssl.ls.apple.com/]tls://112.65.69.15
 [/guzzoni-apple-com.v.aaplimg.com/]tls://112.65.69.15
@@ -80,9 +75,7 @@
 [/iadsdk.apple.com/]tls://112.65.69.15
 [/icloud-cdn.icloud.com.akadns.net/]tls://112.65.69.15
 [/icloud.cdn-apple.com/]tls://112.65.69.15
-[/images.apple.com.akadns.net/]tls://112.65.69.15
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
-[/images.apple.com/]tls://112.65.69.15
 [/init-kt.apple.com/]tls://112.65.69.15
 [/init-p01md-lb.push-apple.com.akadns.net/]tls://112.65.69.15
 [/init-p01md.apple.com/]tls://112.65.69.15
@@ -169,6 +162,5 @@
 [/weather-map2.apple.com/]tls://112.65.69.15
 [/weatherkit.apple.com/]tls://112.65.69.15
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tls://112.65.69.15
-[/www.apple.com.edgekey.net/]tls://112.65.69.15
 [/www.apple.com/]tls://112.65.69.15
 [/xp.apple.com/]tls://112.65.69.15
