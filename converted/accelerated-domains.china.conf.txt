@@ -22071,7 +22071,6 @@
 [/cqrcb.com/]tls://112.65.69.15
 [/cqrcdsc.com/]tls://112.65.69.15
 [/cqrfym.com/]tls://112.65.69.15
-[/cqrjx.com/]tls://112.65.69.15
 [/cqrm.com/]tls://112.65.69.15
 [/cqrmb.com/]tls://112.65.69.15
 [/cqsckj02.com/]tls://112.65.69.15
@@ -47261,7 +47260,6 @@
 [/jjjaaa.com/]tls://112.65.69.15
 [/jjjllk.com/]tls://112.65.69.15
 [/jjjpv.com/]tls://112.65.69.15
-[/jjjx9.com/]tls://112.65.69.15
 [/jjkeq.com/]tls://112.65.69.15
 [/jjkjnet.com/]tls://112.65.69.15
 [/jjkk.org/]tls://112.65.69.15
@@ -48161,6 +48159,7 @@
 [/jswebcall.com/]tls://112.65.69.15
 [/jsweixiu.com/]tls://112.65.69.15
 [/jswel.com/]tls://112.65.69.15
+[/jswenjin.com/]tls://112.65.69.15
 [/jswjkj.net/]tls://112.65.69.15
 [/jswmw.com/]tls://112.65.69.15
 [/jswonderful.com/]tls://112.65.69.15
@@ -51158,7 +51157,6 @@
 [/lacaoshi.com/]tls://112.65.69.15
 [/lacesar.com/]tls://112.65.69.15
 [/lacocrea.com/]tls://112.65.69.15
-[/lacyw.com/]tls://112.65.69.15
 [/ladiyoga.com/]tls://112.65.69.15
 [/ladjzs.com/]tls://112.65.69.15
 [/lady177.com/]tls://112.65.69.15
@@ -78322,7 +78320,6 @@
 [/tzsti.com/]tls://112.65.69.15
 [/tzsucai.com/]tls://112.65.69.15
 [/tzswatch.com/]tls://112.65.69.15
-[/tzswll.com/]tls://112.65.69.15
 [/tztrzjt.com/]tls://112.65.69.15
 [/tztusi.com/]tls://112.65.69.15
 [/tzujian.com/]tls://112.65.69.15
@@ -79720,6 +79717,7 @@
 [/viewstock.com/]tls://112.65.69.15
 [/viewtool.com/]tls://112.65.69.15
 [/viewtrans.com/]tls://112.65.69.15
+[/vifaka.com/]tls://112.65.69.15
 [/vigtm-meeting-tencent.com/]tls://112.65.69.15
 [/viigee.com/]tls://112.65.69.15
 [/viisan.com/]tls://112.65.69.15
