@@ -3,6 +3,7 @@
 [/2mdn.net/]tls://112.65.69.15
 [/admob-cn.com/]tls://112.65.69.15
 [/adservice.google.com/]tls://112.65.69.15
+[/app-analytics-services.com/]tls://112.65.69.15
 [/app-measurement-cn.com/]tls://112.65.69.15
 [/app-measurement.com/]tls://112.65.69.15
 [/apps5.oingo.com/]tls://112.65.69.15
