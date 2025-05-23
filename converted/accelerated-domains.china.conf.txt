@@ -4072,6 +4072,7 @@
 [/365355157.com/]tls://112.65.69.15
 [/36543.com/]tls://112.65.69.15
 [/365500.com/]tls://112.65.69.15
+[/3656.com/]tls://112.65.69.15
 [/365639355.com/]tls://112.65.69.15
 [/36578.com/]tls://112.65.69.15
 [/365960.com/]tls://112.65.69.15
@@ -54297,6 +54298,7 @@
 [/ijunhai.com/]tls://112.65.69.15
 [/ijunxun.com/]tls://112.65.69.15
 [/ijuzhong.com/]tls://112.65.69.15
+[/ijxuitr.com/]tls://112.65.69.15
 [/ijycnd.com/]tls://112.65.69.15
 [/ijzhang.com/]tls://112.65.69.15
 [/ik123.com/]tls://112.65.69.15
@@ -62415,6 +62417,7 @@
 [/kingdraw.com/]tls://112.65.69.15
 [/kingdun.net/]tls://112.65.69.15
 [/kingexplorer.com/]tls://112.65.69.15
+[/kingfu-china.com/]tls://112.65.69.15
 [/kingfulai.com/]tls://112.65.69.15
 [/kinggoo.com/]tls://112.65.69.15
 [/kinggrid.com/]tls://112.65.69.15
@@ -77849,6 +77852,7 @@
 [/pbiso.com/]tls://112.65.69.15
 [/pbkrs.com/]tls://112.65.69.15
 [/pblie.com/]tls://112.65.69.15
+[/pbqdhty.com/]tls://112.65.69.15
 [/pbrcw.net/]tls://112.65.69.15
 [/pbsvpn.com/]tls://112.65.69.15
 [/pbtcw.com/]tls://112.65.69.15
@@ -92709,6 +92713,7 @@
 [/sxbdf.com/]tls://112.65.69.15
 [/sxbest.com/]tls://112.65.69.15
 [/sxbjedu.com/]tls://112.65.69.15
+[/sxbpa.com/]tls://112.65.69.15
 [/sxbuszp.com/]tls://112.65.69.15
 [/sxbychem.com/]tls://112.65.69.15
 [/sxcahosp.com/]tls://112.65.69.15
@@ -107095,6 +107100,7 @@
 [/xiaxs.la/]tls://112.65.69.15
 [/xiayige.org/]tls://112.65.69.15
 [/xiayijian.com/]tls://112.65.69.15
+[/xiayixing.com/]tls://112.65.69.15
 [/xiayx.com/]tls://112.65.69.15
 [/xiazai.live/]tls://112.65.69.15
 [/xiazai126.com/]tls://112.65.69.15
@@ -113720,6 +113726,7 @@
 [/youxiake.com/]tls://112.65.69.15
 [/youxiake.net/]tls://112.65.69.15
 [/youxiamotors.com/]tls://112.65.69.15
+[/youxiangclub.com/]tls://112.65.69.15
 [/youxiangyx.com/]tls://112.65.69.15
 [/youxiaoad.com/]tls://112.65.69.15
 [/youxiaoge.com/]tls://112.65.69.15
