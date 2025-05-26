@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]tls://112.65.69.15
 [/cds.apple.com/]tls://112.65.69.15
 [/cdsassets.apple.com/]tls://112.65.69.15
+[/certs.apple.com/]tls://112.65.69.15
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://112.65.69.15
 [/cl1.apple.com/]tls://112.65.69.15
 [/cl2-cn.apple.com/]tls://112.65.69.15
