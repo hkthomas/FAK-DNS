@@ -15,7 +15,7 @@ jobs:
 
       - name: Set output
       run: |
-        echo "converted_directory=./converted" >> $GITHUB_OUTPUT
+        echo "converted_directory=converted" >> $GITHUB_OUTPUT
 
     - name: Set up Python
       uses: actions/setup-python@v2.2.2
