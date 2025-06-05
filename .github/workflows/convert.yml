@@ -17,10 +17,6 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: 3.9
-
-    - name: Set output
-      run: |
-        echo "converted_directory=./converted" >> $GITHUB_OUTPUT
     
     - name: Install dependencies
       run: pip3 install glob2
