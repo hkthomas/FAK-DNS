@@ -25,6 +25,7 @@ jobs:
       env:
         CN_DNS: ${{ secrets.CN_DNS }}
         THE_DNS: ${{ secrets.THE_DNS }}
+      run: echo "KEY=VALUE" >>$GITHUB_OUTPUT
       run: python convert.py
 
     - name: Create Artifacts
