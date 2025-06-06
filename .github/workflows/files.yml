@@ -33,3 +33,10 @@ jobs:
         name: converted-files
         path: converted
         overwrite: true
+
+
+    - name: Download artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: 'converted-files'  # 要下载的 Artifact 名称
+        path: './converted'  # 下载 Artifact 后的存储路径
