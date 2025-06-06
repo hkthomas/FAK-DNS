@@ -50,7 +50,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         #repo_token: ${{ secrets.GITHUB_TOKEN }}
-        release_name: "Released on $(date +%Y%m%d%H%M)"
-        tag_name: "$(date +%Y%m%d%H%M)"
-        file_glob: true
+        #release_name: "Released on $(date +%Y%m%d%H%M)"
+        tag_name: "Released on $(date +%Y%m%d%H%M)"
+        #file_glob: true
         files: release-artifacts/*.txt
