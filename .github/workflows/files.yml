@@ -52,6 +52,6 @@ jobs:
         #repo_token: ${{ secrets.GITHUB_TOKEN }}
         #release_name: "Released on $(date +%Y%m%d%H%M)"
         #tag_name: "Released on $(date +%Y%m%d%H%M)"
-        tag_name: v1
+        tag_name: Released on $(date +%Y%m%d%H%M)
         #file_glob: true
         files: release-artifacts/*.txt
