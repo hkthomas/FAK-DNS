@@ -45,29 +45,13 @@ jobs:
         mkdir txt
         cp converted/* ./txt/
 
-    - name: Create GitHub Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-      tag_name: v${{ github.run_id }}  # 动态生成唯一标签
-      release_name: Release ${{ github.run_id }}
-      draft: false
-      prerelease: false
-
-    - name: Download Artifact for Release
+    - name: Download Artifact
       uses: actions/download-artifact@v4
       with:
         name: converted-files
-        path: ./release-assets
+        path: ./release-artifacts
 
-    - name: Upload to Release Assets
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Attach to Release
+      uses: softprops/action-gh-release@v1
       with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release-assets/converted/*  # 匹配所有构件
-        asset_name: converted-files.zip
-        asset_content_type: application/zip
+        files: release-artifacts/*.txt
