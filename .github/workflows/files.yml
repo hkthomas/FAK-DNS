@@ -42,4 +42,5 @@ jobs:
 
     - name: copy file
       run: |
-        cp converted/* ./converted/
+        mkdir txt
+        cp converted/* ./txt/
