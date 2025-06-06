@@ -47,6 +47,5 @@ jobs:
 
     - name: Upload # 上传
       uses: softprops/action-gh-release@v2 # 使用第三方actions 上传
-      if: startsWith(github.ref, 'refs/tags/') # 仅在tag时上传
       with:
         files: converted/* # 上传的文件
